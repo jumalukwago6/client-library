@@ -1,0 +1,17 @@
+<file leaf-file-name="myHttpClientAPI.js" pinned="false" current="true" current-in-tab="true">
+          <entry file="file://$PROJECT_DIR$/myHttpClientAPI.js">
+            <provider selected="true" editor-type-id="text-editor">
+ -            <state line="95" column="8" selection-start="3399" selection-end="3399" vertical-scroll-proportion="0.7882562" vertical-offset="1172" max-vertical-offset="1734">
+ +            <state line="45" column="0" selection-start="1827" selection-end="1827" vertical-scroll-proportion="0.455516" vertical-offset="509" max-vertical-offset="1734">
+                <folding>
+                  <element signature="n#!!doc" expanded="true" />
+                </folding>
+ @@ -185,7 +185,7 @@
+    <component name="editorHistoryManager">
+      <entry file="file://$PROJECT_DIR$/myHttpClientAPI.js">
+        <provider selected="true" editor-type-id="text-editor">
+ -        <state line="95" column="8" selection-start="3399" selection-end="3399" vertical-scroll-proportion="0.7882562" vertical-offset="1172" max-vertical-offset="1734">
+ +        <state line="45" column="0" selection-start="1827" selection-end="1827" vertical-scroll-proportion="0.455516" vertical-offset="509" max-vertical-offset="1734">
+            <folding>
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
